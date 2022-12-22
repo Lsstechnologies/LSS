@@ -6,4 +6,5 @@ echo "$HOMEDRIVE"
 echo "$USERNAME"
 echo "$HOSTTYPE"
 echo "$MACHTYPE"
+echo "$OSTYPE"
 
