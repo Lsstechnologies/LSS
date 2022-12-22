@@ -7,4 +7,4 @@ echo "$USERNAME"
 echo "$HOSTTYPE"
 echo "$MACHTYPE"
 echo "$OSTYPE"
-
+echo "$PWD"
