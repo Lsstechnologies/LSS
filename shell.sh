@@ -4,3 +4,6 @@ echo "$HOME"
 echo "$HOSTNAME"
 echo "$HOMEDRIVE"
 echo "$USERNAME"
+echo "$HOSTTYPE"
+echo "$MACHTYPE"
+
